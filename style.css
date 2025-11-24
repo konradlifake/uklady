@@ -1,0 +1,22 @@
+#pudelko {
+      display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  background-color: palegreen;
+  padding: 10px;
+
+}
+.link {
+     background-color: #f1f1f1;
+  color: #000;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+header {
+  height: 200px;
+  text-align: center;
+}
+html {
+  text-align: center;
+}
